@@ -1,0 +1,12 @@
+.introduction{
+    display: flex;
+    flex-direction: column;
+}
+p{
+    text-align: center;
+    margin: 35px 100px;
+}
+iframe{
+    text-align: center;
+    margin-left: 30%;
+}

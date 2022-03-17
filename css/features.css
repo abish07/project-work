@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table{
+    width: 80%;
+    margin: 50px 10%;
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 100px;
+}
+body{
+    background-color:black;
+    color: #ddd;
+}

@@ -1,0 +1,37 @@
+.contact-us{
+    display: inline-block;
+    margin: 50px 37%;
+    width: 20%;
+}
+
+legend{
+    font-size: 20px;
+}
+
+fieldset{
+    padding: 60px;
+    background-color:#ddd;
+}
+fieldset input{
+    width: 200px;
+}
+.send{
+    width: 50px;
+}
+body{
+    background-color:black;
+}
+fieldset legend{
+    width: fit-content;
+}
+fieldset h1{
+    text-align: center;
+}
+fieldset label{
+    color: black;
+    margin-top: 40px;
+}
+fieldset h1{
+    color: black;
+    margin-bottom: 40px;
+}
